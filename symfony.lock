@@ -193,6 +193,9 @@
             "./.env"
         ]
     },
+    "symfony/form": {
+        "version": "4.4-dev"
+    },
     "symfony/framework-bundle": {
         "version": "4.2",
         "recipe": {
@@ -218,6 +221,9 @@
     "symfony/http-kernel": {
         "version": "4.4-dev"
     },
+    "symfony/inflector": {
+        "version": "4.4-dev"
+    },
     "symfony/intl": {
         "version": "4.4-dev"
     },
@@ -241,6 +247,9 @@
             "./config/packages/test/monolog.yaml"
         ]
     },
+    "symfony/options-resolver": {
+        "version": "4.4-dev"
+    },
     "symfony/orm-pack": {
         "version": "dev-master"
     },
@@ -261,6 +270,9 @@
     },
     "symfony/profiler-pack": {
         "version": "dev-master"
+    },
+    "symfony/property-access": {
+        "version": "4.4-dev"
     },
     "symfony/routing": {
         "version": "4.2",
